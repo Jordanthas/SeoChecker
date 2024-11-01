@@ -26,3 +26,9 @@ SEO Checker is a console application built in C# that uses the Google Custom Sea
 ## Prerequisites
 
 - **Google API Key** and **Custom Search Engine ID (CSE ID)** for the Google Custom Search API
+
+## Unit Tests
+- ![image](https://github.com/user-attachments/assets/bd99dd45-bd58-46a9-ae4e-108acb8c3483)
+
+## Search Results (Differentiation between showing 2 and 1 can be explained by the comments above!)
+![image](https://github.com/user-attachments/assets/5c526faa-0ef5-49ad-b817-45d4a7aff225)
